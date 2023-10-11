@@ -1,1 +1,2 @@
 # DoBash!(Implementing Algorithms using Bash Programming)
+This project contains many functionalities such as CPU Scheduling Algorithms, Deadlock Avoidance Algorithms, Memory Management Algorithms. This project is based on the concept of 3 types of algorithms using Bash Programming. Here User can run any type of algorithms and can understand how these algorithms actually work. The 3 types of algorithms are CPU Scheduling Algorithms, Deadlock Avoidance Algorithms and Memory Management Algorithms.
